@@ -54,7 +54,7 @@
 
 ---
 
-<!-- ![Melsonic's github stats](https://github-readme-stats.vercel.app/api?username=melsonic)
+![Melsonic's github stats](https://github-readme-stats.vercel.app/api?username=melsonic)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melsonic)](https://github.com/melsonic/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melsonic)](https://github.com/melsonic/github-readme-stats)
 
