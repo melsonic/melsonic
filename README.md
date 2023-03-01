@@ -50,8 +50,8 @@
 
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="background-color: white" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="43" />
+
 
 <br>
 
