@@ -53,7 +53,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="43" />
 
