@@ -22,11 +22,16 @@
 
 ### Languages:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) -->
+![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
+![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+![Lua](https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg)
 
 
 ### Libraries and Frameworks:
