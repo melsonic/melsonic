@@ -48,11 +48,11 @@
 <br>
 <br>
 <div align="left">
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="43" />
-  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="43" />
