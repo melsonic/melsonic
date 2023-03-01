@@ -27,11 +27,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) -->
-![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)
-![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![Lua](https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg)
+![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg | width=20)
+![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg | width=20)
+![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg | width=20)
+![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg | width=20)
+![Lua](https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg | width=20)
 
 
 ### Libraries and Frameworks:
