@@ -20,13 +20,9 @@
 <br>
 🙋‍♂️ I'm regularly active on Linkedin and gmail, you may connect there if interested.<br>
 
-### Languages:
+### My Skillset includes :- 
+<br>
 
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) -->
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="43" />
@@ -34,22 +30,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="43" />
-
-<br>
-
-### Libraries and Frameworks:
-
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) -->
-
-
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="43" />
@@ -60,27 +41,13 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="43" />
-
-
-
-
-<br>
-
-### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-### Tools:
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="43" />
 
 ---
 
