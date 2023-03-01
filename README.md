@@ -51,6 +51,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="43" />
 
 
 <br>
