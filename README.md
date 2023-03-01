@@ -32,6 +32,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="43" />
 <br>
+<br>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="43" />
@@ -39,6 +40,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="43" />
+<br>
 <br>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="43" />
@@ -51,7 +53,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="43" />
 
 <br>
----
+<br>
 
 ![Melsonic's github stats](https://github-readme-stats.vercel.app/api?username=melsonic)
 
