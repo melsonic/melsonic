@@ -46,9 +46,11 @@
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) -->
+
+
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" style="background-color: white" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="43" />
 
 <br>
