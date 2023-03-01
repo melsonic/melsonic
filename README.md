@@ -22,7 +22,7 @@
 
 ### My Skillset includes :- 
 <br>
-
+<br>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="43" />
@@ -33,6 +33,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="43" />
 <br>
 <br>
+<br>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="43" />
@@ -40,6 +41,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="43" />
+<br>
 <br>
 <br>
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="43" />
@@ -52,6 +54,7 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="43" />
 
+<br>
 <br>
 <br>
 
