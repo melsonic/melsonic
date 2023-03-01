@@ -32,6 +32,8 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="43" />
 
 <br>
 
@@ -56,7 +58,8 @@
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="43" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="43" />
-
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="43" />
 
 
 
