@@ -22,37 +22,42 @@
 
 ### My Skillset includes :- 
 <br>
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="43" />
+<div align="left">
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="43" />
+</div>
 <br>
 <br>
 <br>
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="43" />
+<div align="left" >
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="43" />
+</div>
 <br>
 <br>
 <br>
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="43" />
-<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="43" />
-
+<div align="left">
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="43" />
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" width="43" />
+</div>
 <br>
 <br>
 <br>
