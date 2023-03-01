@@ -27,11 +27,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20" height="20" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="20" height="20" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20" height="20" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="20" height="20" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="43" />
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" width="43" />
 
 ### Libraries and Frameworks:
 
