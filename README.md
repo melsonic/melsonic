@@ -20,6 +20,8 @@
 <br>
 🙋‍♂️ I'm regularly active on Linkedin and gmail, you may connect there if interested.<br>
 
+<br>
+
 ### My Skillset includes :- 
 <br>
 <div align="left">
