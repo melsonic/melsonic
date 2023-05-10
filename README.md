@@ -64,7 +64,7 @@
 <br>
 <br>
 
-![Melsonic's github stats](https://github-readme-stats.vercel.app/api?username=melsonic)
+<!-- ![Melsonic's github stats](https://github-readme-stats.vercel.app/api?username=melsonic)
 
 <br>
 
@@ -72,6 +72,6 @@
 
 <br>
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melsonic&" alt="melsonic" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melsonic&" alt="melsonic" /></p> -->
 
 
