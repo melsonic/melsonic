@@ -15,7 +15,7 @@
 ### About Me 🚀
 
 🎓 I’m a full stack web developer pursuing Computer Science and Engineering</br>
-👨‍💻 I am passionate about Web Development, Graphics Programming and really enjoy learning new things<br>
+👨‍💻 I am passionate about Web & App Development, DevOps and really enjoy learning new things<br>
 🌱 I’m currently learning DevOps
 <br>
 🙋‍♂️ I'm regularly active on Linkedin and gmail, you may connect there if interested.<br>
