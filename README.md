@@ -1,5 +1,4 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px" >, I'm Melsonic
-<br><br>
 <img alt = "Profile Views" src="https://komarev.com/ghpvc/?username=SanthoshS20&color=brightgreen">  
 
 ### About Me 🚀
