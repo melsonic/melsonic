@@ -7,8 +7,6 @@
 👨‍💻 Web Dev (JS, TS, Go) | Open Source | DevOps | DSA(C++)<br>
 🌱 Learning Raylib Game Dev(C) | WebRTC
 <br>
-🙋‍♂️ I'm regularly active on Linkedin and Gmail, you may connect there if interested.<br>
-
 <be>
 
 ### My Skillset includes:- 
