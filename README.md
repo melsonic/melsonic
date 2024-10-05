@@ -48,6 +48,12 @@
 
 ![Melsonic's github stats](https://github-readme-stats.vercel.app/api?username=melsonic)
 
+<br />
+
+## Language Stats
+
+![Melsonic Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=melsonic&layout=compact)
+
 <!-- <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=melsonic" alt="melsonic" /></a> </p>
