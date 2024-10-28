@@ -12,9 +12,9 @@
 ### My Skillset includes:- 
 <br>
 <div align="left">
+  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="43" />
-  <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="43" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="45" />
   <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="45" />
 </div>
