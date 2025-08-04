@@ -13,6 +13,7 @@
 - [ratelimiter](https://github.com/melsonic/Rate-Limiter) - A rate-limiter implementation based on 4 common algorithms.
 - [Neuclide](https://github.com/melsonic/Neuclide) - An Attendance Manager written in MERN stack.
 - [Vidcom](https://github.com/melsonic/Vidcon) - A p2p video chat application built on top of WebRTC.
+- [Klir](https://github.com/melsonic/klir) - CLI tool to perform BULK operations on docker containers and images.
 <br>
 <be>
 
